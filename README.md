@@ -3,13 +3,21 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 ## *COMMANDS:*
 
-* Item 1 node liri.js do-this <this will automatically pull from random.txt file>
+* node liri.js do-this <this will automatically pull from random.txt file>
+![GitHub Logo](/images/do-this.png)
+Format: ![Alt Text](url)
 
-* Item 2 node liri.js concert-this '<artist/band name here>'
+* node liri.js concert-this '<artist/band name here>'
+![GitHub Logo](/images/concert-this.png)
+Format: ![Alt Text](url)
 
-* Item 3 node liri.js movie-this '<movie name here>'
+* node liri.js movie-this '<movie name here>'
+![GitHub Logo](/images/movie-this.png)
+Format: ![Alt Text](url)
 
-* Item 4 node liri.js spotify-this '<song name here>'
+* node liri.js spotify-this '<song name here>'
+![GitHub Logo](/images/spotify-this.png)
+Format: ![Alt Text](url)
 
 
 ## **BONUS** 
