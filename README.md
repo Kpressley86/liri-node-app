@@ -1,4 +1,4 @@
-# **Liri App**
+# **Liri App**  [Check out my Portfolio!](https://kpressley86.github.io/Portfolio/)
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies
 
 ## *COMMANDS:*
