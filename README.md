@@ -5,19 +5,19 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 * node liri.js do-this
 ![GitHub Logo](/images/do-this.png)
-Info: this will automatically pull from random.txt file.
+**Info: this will automatically pull from random.txt file.**
 
 * node liri.js concert-this 'artist/band name here'
 ![GitHub Logo](/images/concert-this.png)
-Info: search any artist/band to see upcoming concerts!
+**Info: search any artist/band to see upcoming concerts!**
 
 * node liri.js movie-this 'movie name here'
 ![GitHub Logo](/images/movie-this.png)
-Info: Search any movie to find out all about it! If left blank (image left) it will default to "Mr. Nobody".
+**Info: Search any movie to find out all about it! If left blank (image left) it will default to "Mr. Nobody".**
 
 * node liri.js spotify-this 'song name here'
 ![GitHub Logo](/images/spotify-this.png)
-Info: Search your favorite songs to find out who sings it and what album it's from. If left blank (image left) it defaults to Ace of Base "The Sign".
+**Info: Search your favorite songs to find out who sings it and what album it's from. If left blank (image left) it defaults to Ace of Base "The Sign".**
 
 
 ## **BONUS** 
